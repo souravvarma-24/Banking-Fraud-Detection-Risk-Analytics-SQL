@@ -240,36 +240,40 @@ This project demonstrates practical applications of SQL in:
 
 ---
 
-## 🧾 ATS Keywords
-
-Advanced SQL, MySQL, Fraud Detection, Risk Analytics, Banking Analytics, Financial Analytics, Business Intelligence, Behavioral Analytics, Security Analytics, Data Analytics, SQL Developer, Data Analyst, Business Analyst, Window Functions, CTEs, Stored Procedures, Triggers, Query Optimization, Relational Database, Data Modeling, Geo Analytics, Fraud Intelligence.
-
----
-
 ## 📝 Conclusion
 
-This Banking Fraud Detection & Risk Analytics System demonstrates how Advanced SQL can be used to build a realistic fraud intelligence and financial analytics platform.
+The Banking Fraud Detection & Risk Analytics System demonstrates how Advanced SQL can be applied to solve real-world financial monitoring and fraud detection challenges through scalable relational database design and analytical querying.
 
-By integrating:
-- transaction monitoring  
-- fraud detection  
-- risk scoring  
-- behavioral analytics  
-- device intelligence  
-- geo-location tracking  
-- advanced SQL analytics  
+By integrating transaction intelligence, fraud analytics, behavioral monitoring, security analysis, geo-location tracking, and risk scoring into a unified database architecture, this project simulates a modern banking analytics environment used in financial institutions and fraud monitoring systems.
 
-into a unified relational database model, the system provides meaningful business insights and real-world fraud monitoring capabilities.
+The project showcases practical implementation of:
+- Advanced SQL analytics
+- Relational database modeling
+- Fraud detection logic
+- Risk-based analysis
+- Behavioral intelligence
+- Security monitoring
+- Business intelligence reporting
 
-This project showcases practical expertise in:
-- database design  
-- SQL analytics  
-- fraud intelligence  
-- security monitoring  
-- business intelligence  
-- analytical problem-solving  
+using technologies and concepts such as:
+- Joins & Aggregations
+- Common Table Expressions (CTEs)
+- Window Functions
+- Subqueries
+- Views
+- Stored Procedures
+- Triggers
+- Query Optimization
 
-making it a strong portfolio project for Data Analysts, Business Analysts, SQL Developers, Fraud Analysts, and entry-level Data Science roles.
+This project highlights strong analytical, technical, and problem-solving capabilities relevant to roles including:
+- Data Analyst
+- Business Analyst
+- SQL Developer
+- Fraud Analyst
+- Financial Analyst
+- Analytics Engineer
+
+The system serves as a complete end-to-end SQL analytics solution that reflects real-world applications of database systems in banking, fraud intelligence, and financial risk management.
 
 ---
 
