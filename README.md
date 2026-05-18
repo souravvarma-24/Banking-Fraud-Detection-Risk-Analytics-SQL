@@ -1,33 +1,53 @@
-# Banking Fraud Detection & Risk Analytics System
+<p align="center">
+  <img src="Project_Banner/Banking_Fraud_Detection_Banner.png" width="100%">
+</p>
+
+# 🏦 Banking Fraud Detection & Risk Analytics System
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/MySQL-Workbench-orange?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/Domain-Banking%20Analytics-darkgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Fraud%20Detection-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Analytics-Risk%20Analytics-purple?style=for-the-badge">
+</p>
+
+---
+
+## 📌 Project Overview
 
 This project demonstrates how Advanced SQL can be used to design, manage, and analyze a real-world Banking Fraud Detection & Risk Analytics System.
 
-The system simulates modern banking operations by integrating transaction monitoring, fraud detection, behavioral analytics, device intelligence, geo-location tracking, and risk scoring into a unified relational database architecture.
+The system simulates modern banking operations by integrating:
 
-This project focuses on financial fraud analytics, suspicious activity monitoring, security intelligence, and business-driven SQL analysis using advanced relational database concepts.
+- 💳 Transaction Monitoring
+- 🚨 Fraud Detection
+- 📊 Risk Analytics
+- 🔐 Security Analytics
+- 🌍 Geo-Location Intelligence
+- 🧠 Behavioral Analytics
+- ⚡ Advanced SQL Analytics
+
+into a unified relational database architecture.
 
 ---
 
 ## 🚀 Project Objectives
 
-The primary objective of this project is to build a scalable and analytics-driven SQL database system capable of simulating real-world banking fraud detection scenarios.
-
 ### ✔ Key Goals
 
-- **Transaction Intelligence** – Analyze and monitor financial transaction activity  
-- **Fraud Detection** – Detect suspicious and high-risk transactions  
-- **Risk Analytics** – Identify risky users, accounts, and behavioral patterns  
-- **Behavioral Monitoring** – Analyze login behavior and suspicious access attempts  
-- **Device Intelligence** – Track suspicious devices and shared device usage  
-- **Geo-Location Analytics** – Monitor fraud activity across locations and countries  
-- **Security Analytics** – Detect failed logins, account abuse, and unusual activity  
-- **Business Intelligence** – Generate analytical insights using Advanced SQL  
+- **Transaction Intelligence** – Analyze and monitor financial transaction activity
+- **Fraud Detection** – Detect suspicious and high-risk transactions
+- **Risk Analytics** – Identify risky users, accounts, and behavioral patterns
+- **Behavioral Monitoring** – Analyze suspicious login behavior
+- **Device Intelligence** – Detect shared or suspicious devices
+- **Geo-Location Analytics** – Analyze fraud activity across countries and cities
+- **Security Analytics** – Monitor login failures and account abuse
+- **Business Intelligence** – Generate insights using Advanced SQL
 
 ---
 
 ## 🗂 Database Schema Overview
-
-The system is designed using a normalized relational database structure containing the following interconnected tables:
 
 | Table Name | Description |
 |---|---|
@@ -42,12 +62,22 @@ The system is designed using a normalized relational database structure containi
 
 ---
 
-## 🖼 ER Diagram
+# 🖼 Project Preview
 
-The complete ER Diagram of the Banking Fraud Detection & Risk Analytics System is included in the repository.
+## 📌 ER Diagram
+
+<p align="center">
+  <img src="Reports/Banking_Fraud_Detection_ER_Diagram.png" width="100%">
+</p>
+
+---
+
+## 📊 SQL Analytics Questions
+
+This repository also includes a dedicated PDF containing all section-wise SQL analytics questions used in the project.
 
 📌 **Path:**  
-`Reports/Banking_Fraud_Detection_ER_Diagram.png`
+`Reports/Banking_Fraud_Detection_SQL_Analytics_Questions.pdf`
 
 ---
 
@@ -66,6 +96,9 @@ Banking-Fraud-Detection-Risk-Analytics-SQL/
 │   ├── Transactions.csv
 │   └── Users.csv
 │
+├── Project_Banner/
+│   └── Banking_Fraud_Detection_Banner.png
+│
 ├── Reports/
 │   ├── Banking_Fraud_Detection_Analytics_Presentation.pptx
 │   ├── Banking_Fraud_Detection_SQL_Analytics_Questions.pdf
@@ -81,53 +114,60 @@ Banking-Fraud-Detection-Risk-Analytics-SQL/
 
 ---
 
-## 📊 Analysis & Business Insights
+# 📊 Analytics & Business Insights
 
-This project includes advanced banking, fraud detection, behavioral, and risk analytics queries using SQL.
+## 👤 User & Account Analytics
 
-### 👤 User & Account Analytics
+- Users owning multiple accounts
+- High-value banking customers
+- Account balance analysis
+- Suspended & dormant user analysis
+- Account status distribution
 
-- Users owning multiple accounts  
-- Account balance analysis by account type  
-- High-value banking customers  
-- Suspended and dormant user analysis  
-- Account status distribution analysis  
+---
 
-### 💳 Transaction Analytics
+## 💳 Transaction Analytics
 
-- Total transaction volume analysis  
-- Monthly transaction trends  
-- High-value transaction detection  
-- Transaction type distribution  
-- Geo-based transaction activity analysis  
+- Total transaction volume analysis
+- Monthly transaction trends
+- High-value transaction detection
+- Geo-based transaction activity analysis
+- Transaction type distribution
 
-### 🚨 Fraud & Risk Analytics
+---
 
-- High-risk user detection  
-- Fraud alert analysis  
-- Fraud percentage calculation  
-- Suspicious transaction monitoring  
-- Country-wise fraud analysis  
-- Device-based fraud analytics  
+## 🚨 Fraud & Risk Analytics
 
-### 🔐 Security & Behavioral Analytics
+- High-risk user detection
+- Fraud alert analysis
+- Suspicious transaction monitoring
+- Country-wise fraud analysis
+- Fraud percentage calculation
+- Device-based fraud analytics
 
-- Failed login analysis  
-- Suspicious device tracking  
-- Login behavior monitoring  
-- Multi-location user activity analysis  
-- Peak login activity detection  
+---
 
-### ⚡ Advanced SQL Analytics
+## 🔐 Security & Behavioral Analytics
 
-- Window Functions  
-- Common Table Expressions (CTEs)  
-- Views  
-- Stored Procedures  
-- Triggers  
-- Ranking Analytics  
-- Subqueries & Aggregate Analysis  
-- Query Optimization & Indexing  
+- Failed login analysis
+- Suspicious device tracking
+- Login behavior monitoring
+- Multi-location user activity analysis
+- Peak login activity analysis
+
+---
+
+## ⚡ Advanced SQL Concepts Implemented
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joins-Implemented-success?style=flat-square">
+  <img src="https://img.shields.io/badge/CTEs-Implemented-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Window%20Functions-Implemented-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Views-Implemented-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Triggers-Implemented-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Stored%20Procedures-Implemented-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Indexing-Implemented-success?style=flat-square">
+</p>
 
 ---
 
@@ -152,36 +192,23 @@ Dormant and suspended users performing transactions may indicate potential accou
 
 ## ▶️ How to Run the Project
 
-### **Step 1 — Import CSV Datasets**
+### Step 1 — Import CSV Datasets
 
-Import each CSV file into its corresponding table using the MySQL Workbench Import Wizard.
+Import all CSV files into MySQL Workbench using the Import Wizard.
 
-| CSV File | Table Name |
-|---|---|
-| Users.csv | Users |
-| Accounts.csv | Accounts |
-| Devices.csv | Devices |
-| Transactions.csv | Transactions |
-| FraudAlerts.csv | FraudAlerts |
-| AuditLogs.csv | AuditLogs |
-| GeoLocation.csv | GeoLocation |
-| RiskScores.csv | RiskScores |
+### Step 2 — Run SQL Script
 
----
-
-### **Step 2 — Run the SQL Script**
-
-Open MySQL Workbench and execute the following SQL script:
+Execute:
 
 ```text
 Workbench/Banking_Fraud_Detection_Analytics.sql
 ```
 
-This script contains:
-- Database creation
-- Table creation (DDL)
-- Data insertion (DML)
-- Analytical SQL queries
+This SQL script contains:
+- Database Creation
+- Table Creation (DDL)
+- Data Insertion (DML)
+- Advanced SQL Queries
 - Views
 - Stored Procedures
 - Triggers
@@ -189,9 +216,9 @@ This script contains:
 
 ---
 
-### **Step 3 — View Reports & Documentation**
+### Step 3 — View Reports
 
-Open the project reports and documentation files:
+Open:
 
 ```text
 Reports/
@@ -206,40 +233,40 @@ Files included:
 
 ## 🛠 Technologies Used
 
-- MySQL / SQL  
-- MySQL Workbench  
-- Relational Database Design  
-- ER Diagram Modeling  
-- Git & GitHub  
-- CSV Dataset Integration  
+- MySQL / SQL
+- MySQL Workbench
+- Relational Database Design
+- ER Diagram Modeling
+- Git & GitHub
+- CSV Dataset Integration
 
 ---
 
 ## 🧠 Challenges Faced
 
-- Designing a normalized banking fraud detection schema  
-- Managing multiple table relationships and foreign keys  
-- Simulating realistic fraud and transaction scenarios  
-- Implementing behavioral and geo-location analytics  
-- Handling advanced SQL analytics and fraud intelligence queries  
-- Automating fraud alert generation using triggers  
-- Building scalable and analytics-oriented database architecture  
+- Designing a normalized banking fraud detection schema
+- Managing multiple table relationships and foreign keys
+- Simulating realistic fraud and transaction scenarios
+- Implementing behavioral and geo-location analytics
+- Handling advanced SQL analytics and fraud intelligence queries
+- Automating fraud alert generation using triggers
+- Building scalable and analytics-oriented database architecture
 
 ---
 
 ## 📘 SQL Concepts Covered
 
-- Primary & Foreign Keys  
-- Data Normalization (1NF, 2NF, 3NF)  
-- INNER JOIN, LEFT JOIN & Multi-Table Joins  
-- GROUP BY, HAVING & Aggregate Functions  
-- Subqueries & Correlated Subqueries  
-- Common Table Expressions (CTEs)  
-- Window Functions (RANK, LAG)  
-- Views, Stored Procedures & Triggers  
-- CASE Statements & Business Logic  
-- Query Optimization & Indexing  
-- ER Modeling & Relational Design  
+- Primary & Foreign Keys
+- Data Normalization (1NF, 2NF, 3NF)
+- INNER JOIN, LEFT JOIN & Multi-Table Joins
+- GROUP BY, HAVING & Aggregate Functions
+- Subqueries & Correlated Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions (RANK, LAG)
+- Views, Stored Procedures & Triggers
+- CASE Statements & Business Logic
+- Query Optimization & Indexing
+- ER Modeling & Relational Design
 
 ---
 
@@ -247,14 +274,14 @@ Files included:
 
 This project demonstrates practical applications of SQL in:
 
-- Banking Analytics  
-- Fraud Detection Systems  
-- Financial Risk Monitoring  
-- Security Analytics  
-- Behavioral Analytics  
-- Transaction Intelligence Platforms  
-- Business Intelligence Reporting  
-- Fraud Investigation Systems  
+- Banking Analytics
+- Fraud Detection Systems
+- Financial Risk Monitoring
+- Security Analytics
+- Behavioral Analytics
+- Transaction Intelligence Platforms
+- Business Intelligence Reporting
+- Fraud Investigation Systems
 
 ---
 
@@ -299,4 +326,6 @@ No part of this project may be copied, modified, distributed, reproduced, or use
 
 ---
 
-⭐ Thank you for exploring this project — feedback, contributions and suggestions are always welcome!
+<p align="center">
+⭐ If you found this project useful, consider giving it a star on GitHub!
+</p>
