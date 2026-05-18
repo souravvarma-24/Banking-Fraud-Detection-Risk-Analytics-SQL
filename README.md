@@ -1,5 +1,5 @@
 
-## 🏦 Banking Fraud Detection & Risk Analytics System 🔗
+## 🔗 Banking Fraud Detection & Risk Analytics System 🏦
 
 ---
 
