@@ -1,4 +1,9 @@
 <p align="center">
+  ## 🏦 Banking Fraud Detection & Risk Analytics System
+</p>
+
+
+<p align="center">
   <img src="Project_Banner/Banking_Fraud_Detection_Banner.png" width="100%">
 </p>
 
@@ -8,12 +13,6 @@
   <img src="https://img.shields.io/badge/Domain-Banking%20Analytics-darkgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-Fraud%20Detection-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Analytics-Risk%20Analytics-purple?style=for-the-badge">
-</p>
-
----
-
-<p align="center">
-  # 🏦 Banking Fraud Detection & Risk Analytics System
 </p>
 
 ---
