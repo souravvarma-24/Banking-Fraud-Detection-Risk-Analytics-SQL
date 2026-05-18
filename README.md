@@ -52,27 +52,29 @@ The complete ER Diagram of the Banking Fraud Detection & Risk Analytics System i
 
 ## 📁 Folder Structure
 
+## 📁 Folder Structure
+
 ```text
-FraudDetection_Datasets/
- ├── Accounts_FraudDetectionDB.csv
- ├── AuditLogs_FraudDetectionDB.csv
- ├── Devices_FraudDetectionDB.csv
- ├── FraudAlerts_FraudDetectionDB.csv
- ├── GeoLocation_FraudDetectionDB.csv
- ├── RiskScores_FraudDetectionDB.csv
- ├── Transactions_FraudDetectionDB.csv
- └── Users_FraudDetectionDB.csv
-
-FraudDetection_Workbench/
- ├── FraudDetectionDB.sql
-
-FraudDetection_PPTX/
- └── Banking_Fraud_Detection_Presentation.pptx
-
-ER_Diagram/
- └── ER_Diagram_Fraud_Detection.png
-
-README.md
+Banking-Fraud-Detection-Risk-Analytics-SQL/
+│
+├── FraudDetection_Datasets/
+│   ├── Accounts_FraudDetectionDB.csv
+│   ├── AuditLogs_FraudDetectionDB.csv
+│   ├── Devices_FraudDetectionDB.csv
+│   ├── FraudAlerts_FraudDetectionDB.csv
+│   ├── GeoLocation_FraudDetectionDB.csv
+│   ├── RiskScores_FraudDetectionDB.csv
+│   ├── Transactions_FraudDetectionDB.csv
+│   └── Users_FraudDetectionDB.csv
+│
+├── FraudDetection_Reports/
+│   ├── ERDiagram_FraudDetectionDB.png
+│   └── PPTX_FraudDetectionDB.pptx
+│
+├── FraudDetection_Workbench/
+│   └── FraudDetectionDB.sql
+│
+└── README.md
 ```
 
 ---
