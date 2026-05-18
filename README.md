@@ -65,7 +65,8 @@ Banking-Fraud-Detection-Risk-Analytics-SQL/
 │
 ├── Reports/
 │   ├── Banking_Fraud_Detection_Analytics_Presentation.pptx
-│   └── ERDiagram.png
+│   ├── Banking_Fraud_Detection_SQL_Analytics_Questions.pdf
+│   └── Banking_Fraud_Detection_ER_Diagram.png
 │
 ├── Workbench/
 │   └── Banking_Fraud_Detection_Analytics.sql
