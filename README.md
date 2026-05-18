@@ -45,12 +45,7 @@ The system is designed using a normalized relational database structure containi
 
 The complete ER Diagram of the Banking Fraud Detection & Risk Analytics System is included in the repository.
 
-📌 **Path:**  
-`ER_Diagram/ER_Diagram_Fraud_Detection.png`
-
 ---
-
-## 📁 Folder Structure
 
 ## 📁 Folder Structure
 
@@ -151,7 +146,7 @@ Dormant and suspended users performing transactions may indicate potential accou
 
 ### **Step 1 — Import CSV Datasets**
 
-Import each CSV file into its corresponding table using MySQL Workbench Import Wizard.
+Import each CSV file into its corresponding table using the MySQL Workbench Import Wizard.
 
 | CSV File | Table Name |
 |---|---|
@@ -168,23 +163,58 @@ Import each CSV file into its corresponding table using MySQL Workbench Import W
 
 ### **Step 2 — Run the SQL Script**
 
-Execute the following SQL script in MySQL Workbench:
+Open MySQL Workbench and execute the following SQL script:
 
 ```text
 FraudDetection_Workbench/FraudDetectionDB.sql
 ```
 
+This script contains:
+- Database creation
+- Table creation (DDL)
+- Data insertion (DML)
+- Analytical SQL queries
+- Views
+- Stored Procedures
+- Triggers
+
 ---
 
-### **Step 3 — View ER Diagram & Presentation**
+### **Step 3 — View Reports & ER Diagram**
 
-Open the project presentation and ER diagram files:
+Open the project reports and ER Diagram files:
 
 ```text
-FraudDetection_PPTX/Banking_Fraud_Detection_Presentation.pptx
-
-ER_Diagram/ER_Diagram_Fraud_Detection.png
+FraudDetection_Reports/
 ```
+
+Files included:
+- ERDiagram_FraudDetectionDB.png
+- PPTX_FraudDetectionDB.pptx
+
+---
+
+### **Step 4 — Execute Analytics Queries**
+
+Run the section-wise SQL analytics queries included in the SQL script to analyze:
+
+- User & Account Analytics
+- Transaction Analytics
+- Fraud & Risk Analytics
+- Security & Behavioral Analytics
+- Advanced SQL Analytics
+
+---
+
+### **Step 5 — Verify Advanced SQL Features**
+
+Execute the following to verify advanced database features:
+
+- Views
+- Stored Procedures
+- Triggers
+- Window Functions
+- CTE-based analytics
 
 ---
 
@@ -266,14 +296,6 @@ using technologies and concepts such as:
 - Stored Procedures
 - Triggers
 - Query Optimization
-
-This project highlights strong analytical, technical, and problem-solving capabilities relevant to roles including:
-- Data Analyst
-- Business Analyst
-- SQL Developer
-- Fraud Analyst
-- Financial Analyst
-- Analytics Engineer
 
 The system serves as a complete end-to-end SQL analytics solution that reflects real-world applications of database systems in banking, fraud intelligence, and financial risk management.
 
