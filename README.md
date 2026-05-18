@@ -53,22 +53,22 @@ The complete ER Diagram of the Banking Fraud Detection & Risk Analytics System i
 ```text
 Banking-Fraud-Detection-Risk-Analytics-SQL/
 │
-├── FraudDetection_Datasets/
-│   ├── Accounts_FraudDetectionDB.csv
-│   ├── AuditLogs_FraudDetectionDB.csv
-│   ├── Devices_FraudDetectionDB.csv
-│   ├── FraudAlerts_FraudDetectionDB.csv
-│   ├── GeoLocation_FraudDetectionDB.csv
-│   ├── RiskScores_FraudDetectionDB.csv
-│   ├── Transactions_FraudDetectionDB.csv
-│   └── Users_FraudDetectionDB.csv
+├── Datasets/
+│   ├── Accounts.csv
+│   ├── AuditLogs.csv
+│   ├── Devices.csv
+│   ├── FraudAlerts.csv
+│   ├── GeoLocation.csv
+│   ├── RiskScores.csv
+│   ├── Transactions.csv
+│   └── Users.csv
 │
-├── FraudDetection_Reports/
-│   ├── ERDiagram_FraudDetectionDB.png
-│   └── PPTX_FraudDetectionDB.pptx
+├── Reports/
+│   ├── Banking_Fraud_Detection_Analytics_Presentation.pptx
+│   └── ERDiagram.png
 │
-├── FraudDetection_Workbench/
-│   └── FraudDetectionDB.sql
+├── Workbench/
+│   └── Banking_Fraud_Detection_Analytics.sql
 │
 └── README.md
 ```
