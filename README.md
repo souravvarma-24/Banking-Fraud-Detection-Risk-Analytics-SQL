@@ -1,4 +1,4 @@
-# Banking-Fraud-Detection-Risk-Analytics-SQL
+# Banking Fraud Detection & Risk Analytics System
 
 This project demonstrates how Advanced SQL can be used to design, manage, and analyze a real-world Banking Fraud Detection & Risk Analytics System.
 
@@ -46,6 +46,9 @@ The system is designed using a normalized relational database structure containi
 
 The complete ER Diagram of the Banking Fraud Detection & Risk Analytics System is included in the repository.
 
+📌 **Path:**  
+`Reports/Banking_Fraud_Detection_ER_Diagram.png`
+
 ---
 
 ## 📁 Folder Structure
@@ -70,6 +73,8 @@ Banking-Fraud-Detection-Risk-Analytics-SQL/
 │
 ├── Workbench/
 │   └── Banking_Fraud_Detection_Analytics.sql
+│
+├── LICENSE
 │
 └── README.md
 ```
@@ -122,6 +127,7 @@ This project includes advanced banking, fraud detection, behavioral, and risk an
 - Triggers  
 - Ranking Analytics  
 - Subqueries & Aggregate Analysis  
+- Query Optimization & Indexing  
 
 ---
 
@@ -152,14 +158,14 @@ Import each CSV file into its corresponding table using the MySQL Workbench Impo
 
 | CSV File | Table Name |
 |---|---|
-| Users_FraudDetectionDB.csv | Users |
-| Accounts_FraudDetectionDB.csv | Accounts |
-| Devices_FraudDetectionDB.csv | Devices |
-| Transactions_FraudDetectionDB.csv | Transactions |
-| FraudAlerts_FraudDetectionDB.csv | FraudAlerts |
-| AuditLogs_FraudDetectionDB.csv | AuditLogs |
-| GeoLocation_FraudDetectionDB.csv | GeoLocation |
-| RiskScores_FraudDetectionDB.csv | RiskScores |
+| Users.csv | Users |
+| Accounts.csv | Accounts |
+| Devices.csv | Devices |
+| Transactions.csv | Transactions |
+| FraudAlerts.csv | FraudAlerts |
+| AuditLogs.csv | AuditLogs |
+| GeoLocation.csv | GeoLocation |
+| RiskScores.csv | RiskScores |
 
 ---
 
@@ -168,7 +174,7 @@ Import each CSV file into its corresponding table using the MySQL Workbench Impo
 Open MySQL Workbench and execute the following SQL script:
 
 ```text
-FraudDetection_Workbench/FraudDetectionDB.sql
+Workbench/Banking_Fraud_Detection_Analytics.sql
 ```
 
 This script contains:
@@ -179,44 +185,22 @@ This script contains:
 - Views
 - Stored Procedures
 - Triggers
+- Indexes
 
 ---
 
-### **Step 3 — View Reports & ER Diagram**
+### **Step 3 — View Reports & Documentation**
 
-Open the project reports and ER Diagram files:
+Open the project reports and documentation files:
 
 ```text
-FraudDetection_Reports/
+Reports/
 ```
 
 Files included:
-- ERDiagram_FraudDetectionDB.png
-- PPTX_FraudDetectionDB.pptx
-
----
-
-### **Step 4 — Execute Analytics Queries**
-
-Run the section-wise SQL analytics queries included in the SQL script to analyze:
-
-- User & Account Analytics
-- Transaction Analytics
-- Fraud & Risk Analytics
-- Security & Behavioral Analytics
-- Advanced SQL Analytics
-
----
-
-### **Step 5 — Verify Advanced SQL Features**
-
-Execute the following to verify advanced database features:
-
-- Views
-- Stored Procedures
-- Triggers
-- Window Functions
-- CTE-based analytics
+- Banking_Fraud_Detection_Analytics_Presentation.pptx
+- Banking_Fraud_Detection_SQL_Analytics_Questions.pdf
+- Banking_Fraud_Detection_ER_Diagram.png
 
 ---
 
@@ -298,9 +282,21 @@ using technologies and concepts such as:
 - Stored Procedures
 - Triggers
 - Query Optimization
+- Indexing
+
 
 The system serves as a complete end-to-end SQL analytics solution that reflects real-world applications of database systems in banking, fraud intelligence, and financial risk management.
 
 ---
 
-⭐ Thank you for exploring this project — feedback, suggestions, and contributions are always welcome!
+## 📄 License
+
+All Rights Reserved.
+
+This project and its contents are the intellectual property of the author.
+
+No part of this project may be copied, modified, distributed, reproduced, or used in any form without explicit written permission from the author.
+
+---
+
+⭐ Thank you for exploring this project — feedback, contributions and suggestions are always welcome!
