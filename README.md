@@ -2,8 +2,6 @@
   <img src="Project_Banner/Banking_Fraud_Detection_Banner.png" width="100%">
 </p>
 
-# 🏦 Banking Fraud Detection & Risk Analytics System
-
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql">
   <img src="https://img.shields.io/badge/MySQL-Workbench-orange?style=for-the-badge&logo=mysql">
@@ -14,6 +12,11 @@
 
 ---
 
+<p align="center">
+  # 🏦 Banking Fraud Detection & Risk Analytics System
+</p>
+
+---
 ## 📌 Project Overview
 
 This project demonstrates how Advanced SQL can be used to design, manage, and analyze a real-world Banking Fraud Detection & Risk Analytics System.
@@ -327,5 +330,5 @@ No part of this project may be copied, modified, distributed, reproduced, or use
 ---
 
 <p align="center">
-⭐ If you found this project useful, consider giving it a star on GitHub!
+ ⭐ Passionately built to showcase Advanced SQL, fraud analytics, and real-world banking intelligence systems. Thank you for exploring this project — your support, feedback, and suggestions are always appreciated!
 </p>
