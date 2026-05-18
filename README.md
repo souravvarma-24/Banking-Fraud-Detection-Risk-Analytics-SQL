@@ -1,6 +1,9 @@
+
 <p align="center">
   ## 🏦 Banking Fraud Detection & Risk Analytics System
 </p>
+
+---
 
 
 <p align="center">
