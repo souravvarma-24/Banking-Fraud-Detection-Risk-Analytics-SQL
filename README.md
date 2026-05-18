@@ -1,6 +1,7 @@
 # Banking-Fraud-Detection-Risk-Analytics-SQL
 
-This project demonstrates how Advanced SQL can be used to design, manage, and analyze a real-world Banking Fraud Detection & Risk Analytics System.  
+This project demonstrates how Advanced SQL can be used to design, manage, and analyze a real-world Banking Fraud Detection & Risk Analytics System.
+
 The system simulates modern banking operations by integrating transaction monitoring, fraud detection, behavioral analytics, device intelligence, geo-location tracking, and risk scoring into a unified relational database architecture.
 
 This project focuses on financial fraud analytics, suspicious activity monitoring, security intelligence, and business-driven SQL analysis using advanced relational database concepts.
