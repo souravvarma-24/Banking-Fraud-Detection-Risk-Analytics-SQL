@@ -1,10 +1,7 @@
 
-<p align="center">
-  ## 🏦 Banking Fraud Detection & Risk Analytics System
-</p>
+## 🏦 Banking Fraud Detection & Risk Analytics System
 
 ---
-
 
 <p align="center">
   <img src="Project_Banner/Banking_Fraud_Detection_Banner.png" width="100%">
